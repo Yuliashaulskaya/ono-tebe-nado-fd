@@ -221,6 +221,10 @@
   text-decoration: underline;
 }
 
+.underline-ofset {
+  text-underline-offset: 3px; 
+}
+
 .text-decoration-none {
   text-decoration: none;
 }
