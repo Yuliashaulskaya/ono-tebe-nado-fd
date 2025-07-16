@@ -322,7 +322,8 @@
 }
 
 .footer__social-icon {
-  size: 48px;
+  width: 48px;
+  height: 48px
 }
 
 .no-style-list {
