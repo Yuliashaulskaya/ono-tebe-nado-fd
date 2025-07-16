@@ -92,7 +92,7 @@
   height: 240px;
   margin-top: 35px;
   border-radius: 50%;
-  padding: 65.25px 47.56px 62.2px 50.89px;
+  padding: 64px 45.52px 62px 46.48px;
   background-color: #000;
 }
 
@@ -107,8 +107,8 @@
 }
 
 .about__logo-image {
-  width: 141.54px;
-  height: 112.55px;
+  width: 148px;
+  height: 114px;
 }
 
 .about__heading {
@@ -272,8 +272,8 @@
 .about {
   display: grid;
   grid-template-columns: 334px auto;
-  gap: 25px;
-  margin: 0 24px 180px;
+  gap: 21px;
+  margin: 0 24px 180px 24px;
 }
 
 .footer {
